@@ -4,6 +4,8 @@ Easy Mock数据迁移工具。
 
 本工具是在 [easy-mock/migrate2local](https://github.com/easy-mock/migrate2local) 的基础上修改, 原版只能从easymock.com迁出, 本工具可以在任意两个网络之间迁移
 
+This tool is based on [easy-mock/migrate2local](https://github.com/easy-mock/migrate2local) and it can migrate Easy Mock data between in two network
+
 ## Using
 
 ```
