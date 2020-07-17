@@ -9,7 +9,7 @@
     "axios": "^0.18.1",
     "chalk": "^2.4.1",
     "inquirer": "^6.0.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "eslint": "^5.1.0",
